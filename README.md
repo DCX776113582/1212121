@@ -19,3 +19,7 @@ string & opertaor+=(string& tt )
   strcat(rep,tt.rep);
   return *this;
 }
+
+
+hjfgjhgjkhgjkh
+kjhgkjhgkjhkjhkj
