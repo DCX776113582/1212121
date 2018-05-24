@@ -23,3 +23,6 @@ string & opertaor+=(string& tt )
 
 hjfgjhgjkhgjkh
 kjhgkjhgkjhkjhkj
+
+
+xxxxxxxx
